@@ -1,0 +1,21 @@
+// Farid Rajabi Nia, fr2md
+
+sum_C
+	1048576       1.06
+	
+sum_simple
+	1048576       1.06
+
+sum_unrolled2
+	1048576       0.83
+
+sum_unrolled4
+	1048576       0.83
+
+sum_multiple_accum
+	1048576       0.55
+
+sum_multiple_accum_C
+	1048576       0.47
+
+
